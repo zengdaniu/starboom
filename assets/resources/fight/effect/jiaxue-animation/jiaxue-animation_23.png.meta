@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "5047ed27-f999-4d6c-9221-5b9eaef990d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "jiaxue-animation_23": {
+      "ver": "1.0.4",
+      "uuid": "630d029c-b428-4b49-8e2b-f746b1a6f1be",
+      "rawTextureUuid": "5047ed27-f999-4d6c-9221-5b9eaef990d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 15,
+      "trimX": 36,
+      "trimY": 25,
+      "width": 87,
+      "height": 87,
+      "rawWidth": 166,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

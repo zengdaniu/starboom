@@ -1,0 +1,41 @@
+
+chuxian.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: true
+  xy: 2, 228
+  size: 64, 545
+  orig: 64, 545
+  offset: 0, 0
+  index: -1
+huang
+  rotate: true
+  xy: 2, 2
+  size: 224, 303
+  orig: 224, 303
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 750, 403
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+tiao1
+  rotate: true
+  xy: 2, 294
+  size: 94, 606
+  orig: 94, 606
+  offset: 0, 0
+  index: -1
+tiao2
+  rotate: true
+  xy: 2, 390
+  size: 94, 746
+  orig: 94, 746
+  offset: 0, 0
+  index: -1

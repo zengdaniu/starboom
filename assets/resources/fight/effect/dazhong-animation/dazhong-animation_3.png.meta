@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "bb88192d-981b-4209-9b44-c6533325eed8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "dazhong-animation_3": {
+      "ver": "1.0.4",
+      "uuid": "5cbfd9a9-a38a-4916-b52f-6f6797890ac1",
+      "rawTextureUuid": "bb88192d-981b-4209-9b44-c6533325eed8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -2,
+      "trimX": 55,
+      "trimY": 59,
+      "width": 226,
+      "height": 224,
+      "rawWidth": 341,
+      "rawHeight": 338,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

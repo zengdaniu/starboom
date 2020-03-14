@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "f1423e75-397c-4c92-bc18-f9253a0ad82e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Tanktank8": {
+      "ver": "1.0.4",
+      "uuid": "17efb3fa-4def-453e-adde-9c1182fb50cf",
+      "rawTextureUuid": "f1423e75-397c-4c92-bc18-f9253a0ad82e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 112,
+      "rawWidth": 115,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

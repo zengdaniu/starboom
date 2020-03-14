@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "4c177afd-cb4c-44a5-a32a-50a250b95a7b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Icon_enzyme_01_in": {
+      "ver": "1.0.4",
+      "uuid": "75add624-dea7-4080-8d7c-d74abd7984d2",
+      "rawTextureUuid": "4c177afd-cb4c-44a5-a32a-50a250b95a7b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 0,
+      "width": 85,
+      "height": 112,
+      "rawWidth": 92,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

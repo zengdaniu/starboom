@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "ae49d98d-4e60-43bb-bd0a-53424a842b06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Icon_Hp_Bar_01_01": {
+      "ver": "1.0.4",
+      "uuid": "b5b75ec6-eaa5-4a0d-a5d7-ac328eca9df7",
+      "rawTextureUuid": "ae49d98d-4e60-43bb-bd0a-53424a842b06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 13,
+      "height": 6,
+      "rawWidth": 13,
+      "rawHeight": 6,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 6,
+      "borderRight": 6,
+      "subMetas": {}
+    }
+  }
+}

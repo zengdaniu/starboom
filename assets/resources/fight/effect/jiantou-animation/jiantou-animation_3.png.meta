@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "4b9cc348-fb90-41c7-be9f-d890e2427c7d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "jiantou-animation_3": {
+      "ver": "1.0.4",
+      "uuid": "6fca3021-9d1d-4f38-bec0-ecc7ca295177",
+      "rawTextureUuid": "4b9cc348-fb90-41c7-be9f-d890e2427c7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": -3,
+      "trimX": 17,
+      "trimY": 10,
+      "width": 144,
+      "height": 147,
+      "rawWidth": 163,
+      "rawHeight": 161,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

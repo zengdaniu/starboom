@@ -1,0 +1,45 @@
+{
+"skeleton": { "hash": "K8ARkWEHbXXVal8W2Kpi5kQruus", "spine": "3.6.53", "width": 67, "height": 70, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "huo", "parent": "root", "y": 0.36 }
+],
+"slots": [
+	{ "name": "huo", "bone": "huo", "attachment": "huo" }
+],
+"skins": {
+	"default": {
+		"huo": {
+			"huo": { "x": 0.05, "y": 29.73, "width": 67, "height": 70 }
+		}
+	}
+},
+"animations": {
+	"qianghuo": {
+		"slots": {
+			"huo": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.1667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"huo": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": -3.61 },
+					{ "time": 0.0667, "x": 0, "y": 10.57, "curve": "stepped" },
+					{ "time": 0.1667, "x": 0, "y": 10.57 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.0667, "x": 1.4, "y": 1.8 },
+					{ "time": 0.1667, "x": 1.8, "y": 2.2 }
+				]
+			}
+		}
+	}
+}
+}

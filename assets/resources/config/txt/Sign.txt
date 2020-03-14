@@ -1,0 +1,7 @@
+1	Icon_Gold_01	50
+2	Icon_Gold_01	80
+3	Icon_Gold_01	120
+4	Icon_Gold_01	180
+5	Icon_Gold_01	250
+6	Icon_Gold_01	350
+7	Icon_Gold_01	500

@@ -1,0 +1,141 @@
+{
+"skeleton": { "hash": "+ToaTwmZvOPuXmxRSUFGAV8K5no", "spine": "3.6.53", "width": 224, "height": 765, "images": "./images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bai", "parent": "root", "y": 3.21 },
+	{ "name": "huang", "parent": "root", "x": -0.01, "y": 1 },
+	{ "name": "quan", "parent": "root", "x": 0.23, "y": -1.26 },
+	{ "name": "tiao1", "parent": "root", "x": 0.01, "y": 1.92 },
+	{ "name": "tiao2", "parent": "root", "x": 0.6, "y": -0.3 }
+],
+"slots": [
+	{ "name": "quan", "bone": "quan", "attachment": "quan" },
+	{ "name": "tiao1", "bone": "tiao1", "attachment": "tiao1" },
+	{ "name": "tiao2", "bone": "tiao2", "attachment": "tiao2" },
+	{ "name": "bai", "bone": "bai", "attachment": "bai" },
+	{ "name": "huang", "bone": "huang", "attachment": "huang" }
+],
+"skins": {
+	"default": {
+		"bai": {
+			"bai": { "x": -1.36, "y": 269.92, "width": 64, "height": 545 }
+		},
+		"huang": {
+			"huang": { "x": -1.36, "y": 95.14, "width": 224, "height": 303 }
+		},
+		"quan": {
+			"quan": { "x": 0.41, "y": 1.4, "width": 100, "height": 81 }
+		},
+		"tiao1": {
+			"tiao1": { "x": 0.62, "y": 303.71, "scaleX": 0.7, "width": 94, "height": 606 }
+		},
+		"tiao2": {
+			"tiao2": { "x": 0.03, "y": 336.94, "width": 94, "height": 746 }
+		}
+	}
+},
+"animations": {
+	"chuxian": {
+		"slots": {
+			"bai": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"huang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.0667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff00" }
+				]
+			},
+			"quan": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6667, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			},
+			"tiao1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.9, "color": "ffffff00" },
+					{ "time": 1.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			},
+			"tiao2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8333, "color": "ffffff00" },
+					{ "time": 1.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff" },
+					{ "time": 1.8333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bai": {
+				"translate": [
+					{ "time": 1, "x": 0, "y": 95.03 },
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.1667, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1, "y": 1.5 },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			},
+			"tiao1": {
+				"scale": [
+					{ "time": 0.9, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0.5, "y": 0.5 },
+					{ "time": 1.0667, "x": 1.2, "y": 1 },
+					{ "time": 1.1667, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1, "y": 1.5 },
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"tiao2": {
+				"translate": [
+					{ "time": 1.1667, "x": 0, "y": 0 },
+					{ "time": 1.3333, "x": 0, "y": 15.35 },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.8333, "x": 0.5, "y": 0.5 },
+					{ "time": 0.9667, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.2, "y": 1 },
+					{ "time": 1.1, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.1667, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 1.1, "y": 1.5 },
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"quan": {
+				"scale": [
+					{ "time": 0, "x": 0.5, "y": 0.5 },
+					{ "time": 0.1667, "x": 1, "y": 1 }
+				]
+			},
+			"huang": {
+				"scale": [
+					{ "time": 0.8333, "x": 0, "y": 0 },
+					{ "time": 0.9333, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.2, "y": 1.2 },
+					{ "time": 1.0667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

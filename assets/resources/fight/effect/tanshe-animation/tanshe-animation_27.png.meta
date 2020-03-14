@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "27978b2f-695f-4da6-82a9-15b3953dc60f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "tanshe-animation_27": {
+      "ver": "1.0.4",
+      "uuid": "77d89a5e-024b-46bb-8ca8-cfe15f8a222e",
+      "rawTextureUuid": "27978b2f-695f-4da6-82a9-15b3953dc60f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8.5,
+      "offsetY": -12,
+      "trimX": 4,
+      "trimY": 24,
+      "width": 180,
+      "height": 316,
+      "rawWidth": 205,
+      "rawHeight": 340,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "724d5167-5c4e-40b6-ae10-cf4cdaea570b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "sandan-animation_12": {
+      "ver": "1.0.4",
+      "uuid": "2cb34ec5-84f1-4cb7-996e-a669520b3f9d",
+      "rawTextureUuid": "724d5167-5c4e-40b6-ae10-cf4cdaea570b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -7,
+      "trimX": 1,
+      "trimY": 21,
+      "width": 189,
+      "height": 135,
+      "rawWidth": 195,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

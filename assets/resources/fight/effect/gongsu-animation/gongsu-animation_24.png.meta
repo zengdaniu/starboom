@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "38ba0f71-5ce7-480e-9d18-1d0eee962007",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "gongsu-animation_24": {
+      "ver": "1.0.4",
+      "uuid": "2e71980f-9f81-43b2-8c2f-20fb79bb773c",
+      "rawTextureUuid": "38ba0f71-5ce7-480e-9d18-1d0eee962007",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -24.5,
+      "offsetY": -46.5,
+      "trimX": 1,
+      "trimY": 154,
+      "width": 77,
+      "height": 90,
+      "rawWidth": 128,
+      "rawHeight": 305,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

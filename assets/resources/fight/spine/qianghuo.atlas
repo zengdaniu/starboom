@@ -1,0 +1,13 @@
+
+qianghuo.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: false
+  xy: 2, 2
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
