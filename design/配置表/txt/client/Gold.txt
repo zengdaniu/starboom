@@ -1,0 +1,5 @@
+1	Sales_1	1
+2	Sales_2	2
+3	Sales_3	3
+4	Sales_4	5
+5	Sales_5	10

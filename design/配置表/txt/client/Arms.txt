@@ -1,0 +1,4 @@
+1	Icon_Arms_01	0	1	8	12
+2	Icon_Arms_02	1K	2	8	12
+3	Icon_Arms_03	5K	3	8	12
+4	Icon_Arms_04	10K	4	8	12
