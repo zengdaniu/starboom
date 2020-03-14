@@ -112,7 +112,7 @@ export default class TryOutEvent extends Win {//
         // cc.director.resume();
     }
     watchVideo(){
-        Cmn.pf.showVideo(ViewPosID.FreeRelive,null, null, this.onExtraHpCB, this);
+        Cmn.pf.showVideo(ViewPosID.TryOutEvent,null, null, this.onExtraHpCB, this);
         //Cmn.pf.hideBanner();
     }
     onExtraHpCB(status:boolean){

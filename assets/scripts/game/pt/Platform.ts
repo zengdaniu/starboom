@@ -220,4 +220,5 @@ export enum ViewPosID {
     SignIn   = 1 ,  //签到奖励双倍
     FreeUpgrade = 2 , // 免费升级
     FreeRelive = 3 , //免费复活
+    TryOutEvent= 4 , //尝试事件
 }
