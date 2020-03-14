@@ -53,13 +53,15 @@ export default class TryOutEvent extends Win {//
         }
         if(unOwnArmsId.length>0){
             types.push(1);
+            types.push(1);  //策划说这个要两倍于双倍金币 权重30
         }
         //体验攻速
         if(this._userDB.weapon.speed<Cmn.cfg.getCfg(CfgConstants.RES_ATTRIBUTES,1).maxLevel*0.75){
             types.push(2);
+            types.push(2);//策划说这个要两倍于双倍金币 权重30
         }
         //体验双倍金币
-        types.push(3);
+        types.push(3); //权重15
         
         typeindex =this.randomINdex(0,types.length-1);//MixedUtils.randomFrom(0,types.length-1);
         switch(types[typeindex]){

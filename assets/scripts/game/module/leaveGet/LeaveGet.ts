@@ -37,10 +37,10 @@ export class LeaveGet extends Win {
         let attrcfg:AttributesCfg =  Cmn.cfg.getCfg(CfgConstants.RES_ATTRIBUTES, 3);
         this.timeLabel.string = "离线" + this.getTimeStr(this._leaveTime) + "获得";
         this._leaveTime *=(attrcfg.value+attrcfg.upValue*(Cmn.ud.userDB.weapon.wage-1))/100 ; //Cmn.calc.strToArr(cfg.gold);
-        this._addVal = Cmn.calc.strToArr("5");
+        this._addVal = Cmn.calc.strToArr("2");
         Cmn.calc.calcNum(CalcType.RIDE, this._addVal , this._leaveTime);
         this.goldNum.string = "x" + Cmn.calc.arrToStr(this._addVal );
-        this.tips.string = 5 + "/s，上限2小时"
+        this.tips.string = 2 + "/s，上限2小时"
     }
 
     onDouble() {
