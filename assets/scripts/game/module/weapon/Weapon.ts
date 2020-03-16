@@ -119,6 +119,7 @@ export class Weapon extends Win {
             Cmn.ud.saveLocalSolt(UserDataKey.OWNARMSID);
             Cmn.ud.saveLocalSolt(UserDataKey.CURARMSID);
             Cmn.ud.saveLocalSolt(UserDataKey.MONEY);
+            this._userDB.upMoney++;
         }
         if (null != this._cbFun && null != this._cbObject) {
             this._cbFun.call(this._cbObject);

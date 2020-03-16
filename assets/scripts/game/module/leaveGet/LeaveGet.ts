@@ -48,9 +48,9 @@ export class LeaveGet extends Win {
         let addVal: number[] = Cmn.ud.newArr(this._getMoney);
         Cmn.calc.calcNum(CalcType.RIDE, addVal, 2 * this._leaveTime);
         udb.money = Cmn.calc.calcNum(CalcType.PLUS, udb.money, addVal);
-        udb.upMoney++;
         Cmn.ui.tip.pushLblArr(Cmn.calc.arrToStr(addVal), TipsType.GOLD);
         Cmn.ud.saveLocalSolt(UserDataKey.MONEY);
+        udb.upMoney++;
         this.closeWindow();
     }
 
@@ -80,10 +80,10 @@ export class LeaveGet extends Win {
         }
         let money :number []=Cmn.ud.newArr(udb.money);
         Cmn.calc.calcNum(CalcType.PLUS,money, addVal);
-        udb.upMoney++;
         Cmn.ui.tip.pushLblArr(Cmn.calc.arrToStr(addVal), TipsType.GOLD);
         udb.money =money;
         Cmn.ud.saveLocalSolt(UserDataKey.MONEY);
+        udb.upMoney++;
         this.closeWindow();
     }
 

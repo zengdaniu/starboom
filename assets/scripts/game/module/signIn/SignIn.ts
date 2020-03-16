@@ -105,9 +105,9 @@ export class SignIn extends Win {
             addNum=Cmn.calc.calcNum(CalcType.RIDE, addNum, 2);
         }
         this._userDB.money = Cmn.calc.calcNum(CalcType.PLUS, this._userDB.money, addNum);
-        this._userDB.upMoney++;
         Cmn.ui.tip.pushLblArr(Cmn.calc.arrToStr(addNum), TipsType.GOLD);
         Cmn.ud.saveLocalSolt(UserDataKey.MONEY);
+        this._userDB.upMoney++;
         this._signData[index].isSign = true;
         this.item[index].data = this._signData[index];
         this.setUi();

@@ -158,12 +158,12 @@ export class MainUI extends Mod {
             Cmn.ui.tip.pushLblArr("金币不足，请前往关卡获取");
             return;
         } else {
-            this._userDB.money = num;
-            this._userDB.upMoney++;
+            this._userDB.money = num;      
         }
        
         this.upWeapon();
         Cmn.ud.saveLocalSolt(UserDataKey.MONEY);
+        this._userDB.upMoney++;
     }
     upWeapon(){
         //判断满级
